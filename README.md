@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hey there 👋
 
 I’m a backend developer who enjoys working with APIs, databases, and servers. I like writing clean code, fixing bugs (even the weird ones), and quietly keeping things running while the frontend gets all the credit 😅
 
